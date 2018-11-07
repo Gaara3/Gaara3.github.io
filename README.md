@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/Gaara3/Gaara3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+a test for aviurl[avi_test](https://github.com/Gaara3/GroupAnalysis/blob/master/rolling_vectors.avi)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
